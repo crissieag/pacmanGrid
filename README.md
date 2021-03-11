@@ -4,7 +4,7 @@
 
 Projeto desenvolvido para estudo de JavaScript, em especial loops e condicionantes. O grid foi criado com layout no JS, a partir de números, e dada a sequência, aplicaram-se cores e estilização através de condicionantes e inserção de classes. 
 
- ![Tela](https://github.com/crissieag/Instagram-LogIn-Page/blob/main/grid-pacman.jpg)
+ ![Tela](https://github.com/crissieag/pacmanGrid/blob/main/grid-pacman.jpg)
 
 # :gear: Tecnologias #
 
